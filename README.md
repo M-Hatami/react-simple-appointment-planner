@@ -1,3 +1,21 @@
+<html lang="fa" dir="rtl">
+<body>
+<h1>معرفی
+</h1>
+<p>نمونه برنامه ثبت قرار ملاقاتها و تقویم سررسید و تعیین وقت برای مشتریان و همکاران نوشته شده بوسیله ری‌اکت جاوا اسکریپت صفحات تارنما و سامانه‌های برخط:</p>
+<div>
+<img src="https://github.com/M-Hatami/react-simple-appointment-planner/blob/master/public/calendar-appointment-maker.jpg?raw=true" alt="نمونه رابط کاربری"/>
+</div>
+<br/>
+<p>برای ملاحظه ارائه زنده به <a href="https://react-simple-appointment-planner.netlify.app/">نمونه برخط</a> این طرح مراجعه فرمایید.
+</p>
+</body>
+</html>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
